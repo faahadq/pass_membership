@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: AACA Membership 
+ * Plugin Name: PASS Membership 
  * Plugin URI: https://github.com/faahadq/pass_membership
  * Description: Lightweight membership helpers for Gravity Forms, ACF, and protected member content.
  * Version: 1.0.0

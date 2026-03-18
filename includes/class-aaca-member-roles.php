@@ -28,7 +28,7 @@ class AACA_Member_Roles {
 	public static function add_roles() {
 		add_role(
 			'aaca_member',
-			__( 'AACA Member', 'aaca-membership-core' ),
+			__( 'PAS Member', 'aaca-membership-core' ),
 			array(
 				'read' => true,
 			)
